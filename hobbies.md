@@ -10,5 +10,7 @@ comments: false
 
 
 * [Reading]
+* [watching movie and sitcom]
+
 
 
