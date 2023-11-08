@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Mobina Hoshiari"
-  avatar           : "c:\Users\User\Desktop\photo1.jpg"
+  avatar           : "/assets/images/bio-photo.jpg"
   bio              : Hi this is Mobina.
   location         : "Tehran"
   email            : ma.hoshiar@gmail.com
