@@ -7,7 +7,6 @@ title: Test Post
 <head>
     <h1 style=" color:green; text-align:center;">توضیحات کد درخت</h1>
     <body>
-    <img src="tree.jpg" alt="درخت" width="400" border-radius="10" >
     <br>
     <div >
     <p dir="rtl" style="text-align: right;">
@@ -71,7 +70,7 @@ title: Test Post
 </html>
 
 
-![alt text](../assets/images/grouppic.jpg "Team Picture")
+![alt text](../assets/images/Tree.jpg "Tree Picture")
 
 ---
 **Test**: This is atest
