@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: در کلاس چه گذشت
+title: Blog 1
 ---
 
 - We wrote some code
