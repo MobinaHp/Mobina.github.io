@@ -6,7 +6,7 @@ title: کد درخت
 <head>
     <h1 style=" color:green; text-align:center;">توضیحات کد درخت</h1>
     <body>
-    <img src="tree.jpg" alt="درخت" width="400" border-radius="10" >
+    <img src="../assets/images/tree.jpg" alt="درخت" width="400" border-radius="10" >
     <br>
     <div >
     <p dir="rtl" style="text-align: right;">
