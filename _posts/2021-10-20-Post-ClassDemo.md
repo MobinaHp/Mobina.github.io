@@ -8,7 +8,7 @@ title: کد مثلث
 <head>
     <h1 style=" color:blue; text-align:center;">توضیحات کد درخت</h1>
     <body>
-    <img src="triangle.jpg" alt="مثلث" width="400" border-radius="10" >
+    <img src="../assets/images/triangle.jpg" alt="مثلث" width="400" border-radius="10" >
     <br>
     <div>
     <p  dir="rtl" style="text-align: right;">ابتدا کتابخانه‌ی turtle را صدا می‌زنیم و تابع sierpinski() را تعریف می‌کنیم که دو پارامتر size و order را به عنوان ورودی می‌پذیرد.  Size طول ضلع مثلث و order نشان دهنده تعداد مرتبه‌ی تکرار است. در هر مرحله تابع طول ضلع مثلث را نصف می‌کند و آن را رسم می‌کند بعد از آن نیز تابع در سه جهت مختلف مثلث را به مرتبه‌ کمتر (order - 1) خودش را صدا می‌زند. در تابع main() اندازه‌ی صفحه و نقطه‌ی شروع رسم را مشخص می‌کنیم و بعد در آن تابع sierpinski() را صدا می‌زنیم.</p>
