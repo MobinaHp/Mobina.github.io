@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-permalink: /friends/
+permalink: /calender/
 title: My calender
 tags: [calender]
 modified: 11-22-2023
