@@ -2,7 +2,8 @@
 layout: posts
 title: کد درخت
 ---
-## توضیحات کد درخت 
+{% include tree.html %}
+<!-- ## توضیحات کد درخت 
 
 <html>
 <head>
@@ -69,6 +70,6 @@ title: کد درخت
     </div>
     </body>
 </head>
-</html>
+</html> -->
 ---
 **Test**: This is atest
