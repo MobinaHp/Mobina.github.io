@@ -2,8 +2,8 @@
 layout: posts
 title: کد درخت
 ---
-{% include "_includes/tree.html" %}
-<!-- ## توضیحات کد درخت 
+<!-- {% include "_includes/tree.html" %} -->
+## توضیحات کد درخت 
 
 <html>
 <head>
@@ -70,6 +70,6 @@ title: کد درخت
     </div>
     </body>
 </head>
-</html> -->
+</html>
 ---
 **Test**: This is atest
