@@ -2,7 +2,7 @@
 layout: posts
 title: کد درخت
 ---
-{% include tree.html %}
+{% include \_includes\tree.html%}
 <!-- ## توضیحات کد درخت 
 
 <html>
