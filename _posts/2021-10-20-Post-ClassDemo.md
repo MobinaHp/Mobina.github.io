@@ -6,7 +6,7 @@ title: کد مثلث
 ## توضیحات کد مثلث
 <html>
 <head>
-    <h1 style=" color:blue; text-align:center;">توضیحات کد درخت</h1>
+    <h1 style=" color:blue; text-align:center;">توضیحات کد مثلث</h1>
     <body>
     <img src="../assets/images/triangle.jpg" alt="مثلث" width="400" border-radius="10" >
     <br>
