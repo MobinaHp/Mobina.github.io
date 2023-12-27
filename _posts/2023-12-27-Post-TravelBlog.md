@@ -4,13 +4,10 @@ title: My Travel Blog Project
 ---
 ## Travel Blog
 <html>
-<title>My Travel Blog Project</title>
-    <h1 style="color: blue; text-align: center;">Travel Blog Website</h1>
-</head>
 <body>
     <div>
         <p style="text-align: center;">
-            <a href="https://mobinahop.pythonanywhere.com" target="_blank">Visit the Blog Section</a>
+            <a href="https://mobinahop.pythonanywhere.com" target="_blank">Visit My Website</a>
         </p>
         <p dir="rtl" style="text-align: right;">
             برای این وبسات من از فریم‌ورک جنگو و اچ‌تی‌ام‌ال استفاده کردم. در ابتدا صفحات مختلف وبسایت را با استفاده از قالب‌های آماده‌ی Bootstrap طراحی کردم. پس از نصب پایتون و جنگو پروژه‌ی جنگو را با استفاده از دستور django-admin startproject projectname و اپ را با دستور python manage.py startapp appname در پروژه‌ی جنگو درست کردم.
