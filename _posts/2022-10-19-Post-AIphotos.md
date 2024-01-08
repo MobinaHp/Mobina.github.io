@@ -2,7 +2,6 @@
 layout: posts
 title: AI Photos
 ---
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
