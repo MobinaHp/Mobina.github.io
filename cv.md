@@ -29,10 +29,3 @@ Passionate and dedicated Computer Engineering student with a profound interest i
 
 ## Machine Learning:
 - A keen interest in and self-driven study of Machine Learning concepts and applications, exemplified by the completion of CS50's Introduction to Artificial Intelligence with Python course.
-
-
-
-
-
-
-<iframe width="1691" height="680" src="https://www.youtube.com/embed/LOTtWzX3Wp4" title="The STRANGE Reason He's The World's Best Climber" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
