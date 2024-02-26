@@ -17,9 +17,9 @@ minimal_mistakes_skin    : "mint" #"default" "air", "aqua", "contrast", "dark", 
 
 # Site Settings
 locale                   : "en-US" 
-title                    : "مبینا هشیاری"
+title                    : "Mobina Hoshiaripour"
 title_separator          : "-"
-name                     : "mobina hoshiari" 
+name                     : "Mobina Hoshiari" 
 description              : "Welcome to my web site."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #the subpath of your site, e.g. "/blog"
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Mobina Hoshiari"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : Hi this is Mobina.
+  bio              : I'm a Computer Engineering student at IUST with a passion for delving into the realms of Machine Learning and AI. Beyond the world of coding, I enjoy swimming and travelling. Ready to dive into the tech world with my skills and enthusiasm!
   location         : "Tehran"
   email            : ma.hoshiar@gmail.com
   twitter: 
